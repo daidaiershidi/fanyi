@@ -45,6 +45,6 @@ class baidu_api():
 
 if __name__ == '__main__':
     baidu_api = baidu_api()
-    res = baidu_api.get_response('傻逼百度')
+    res = baidu_api.get_response('百度棒棒')
     print(res)
  
